@@ -1,4 +1,4 @@
-# Reddit Clone - Complete REST API Implementation
+# Reddit Clone - with REST API Implementation
 
 ### Build & Run
 ```bash
