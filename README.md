@@ -1,12 +1,5 @@
 # Reddit Clone - Complete REST API Implementation
 
-**Team:** Venkatesh Jammalamadaka (64025294),   Akash Challa (51281562)
-**Course:** COP5615 - Distributed Operating System Principles  
-
----
-
-
-
 ### Build & Run
 ```bash
 cd project4_part2
